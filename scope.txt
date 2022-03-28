@@ -18,3 +18,4 @@ each
 other
 
 an addition introduced in github repository
+second amendment
