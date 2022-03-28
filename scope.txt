@@ -19,3 +19,5 @@ other
 
 an addition introduced in github repository
 second amendment
+
+amended from gitlab repository
