@@ -21,3 +21,7 @@ an addition introduced in github repository
 second amendment
 
 third amendment made at github repo
+
+amended from gitlab repository
+
+some addition added in GitLab repo
