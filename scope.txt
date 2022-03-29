@@ -19,3 +19,5 @@ other
 
 an addition introduced in github repository
 second amendment
+
+third amendment made at github repo

@@ -4,6 +4,6 @@ brown
 fox
 jumps
 over
-the
+I don't do articles
 lazy
 dog
